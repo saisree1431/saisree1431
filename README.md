@@ -1,6 +1,6 @@
 ## 📌 About Me
 
-Hey there! I'm Saisri — a final-year Computer Science & Engineering student specializing in Artificial Intelligence & Machine Learning at Avanthi's St. Theressa Institute of Engineering & Technology.
+Hey there! I'm Saisri — a Computer Science & Engineering student specializing in Artificial Intelligence & Machine Learning at Avanthi's St. Theressa Institute of Engineering & Technology.
 
 I’m passionate about coding and especially drawn to web development. I'm currently focused on learning and building my skills through simple, practical projects.
 
